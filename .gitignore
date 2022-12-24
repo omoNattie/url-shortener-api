@@ -1,0 +1,9 @@
+.idea/
+
+.vs/
+
+UrlShortener/bin
+
+UrlShortener/obj
+
+UrlShortener/Source/Utils/Data/DBConfig.cs
