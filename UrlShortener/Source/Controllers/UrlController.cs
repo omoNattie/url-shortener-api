@@ -45,7 +45,7 @@ public class UrlController : ControllerBase
         var newUrl = new UrlModel
         {
             LongUrl = finUrl,
-            ShortUrl = $"https://localhost:44332/{newId}",
+            ShortUrl = $"https://localhost:3000/api/v1/{newId}",
             ShortId = newId
         };
 
